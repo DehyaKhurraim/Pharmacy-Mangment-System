@@ -1,6 +1,13 @@
 # Pharmacy Management System
 
-![Pharmacy Management System](pharmacy_system.png)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+[![MySQL](https://img.shields.io/badge/mysql-5.7%2B-blue.svg)](https://www.mysql.com)
+
+[![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
 
 Pharmacy Management System is a web-based application built using JSP (JavaServer Pages) and Java that allows pharmacies to efficiently manage their daily operations. The system provides a user-friendly interface for managing various aspects of a pharmacy, including inventory management, sales tracking, and prescription management.
 
@@ -52,21 +59,12 @@ Pharmacy Management System is a web-based application built using JSP (JavaServe
 
    - Admin Account:
      - Username: admin
-     - Password: admin
+     - Password: 123
 
    - Staff Account:
      - Username: staff
-     - Password: staff
+     - Password: 123
 
-## Screenshots
-
-![Dashboard](screenshots/dashboard.png)
-
-![Inventory Management](screenshots/inventory.png)
-
-![Sales Tracking](screenshots/sales.png)
-
-![Prescription Management](screenshots/prescriptions.png)
 
 ## Contributing
 
