@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Register</title>
+<link rel="stylesheet" href="css/Register.css">
+
+</head>
+<body>
+	<form action="SellerRegister.jsp" method="post">
+		<div class="container">
+			<div class="registerbox">
+				<h2>Register New Vendor</h2>
+			<input type="text" name="name" placeholder="Enter Name"     minlength="3" maxlength="20"  required pattern="[A-z ]+$" title="Use only character & whitespace" autocomplete="off" >
+			<input type="text"  name="phno" placeholder="Enter Phone Number" minlength="11" maxlength="14" required>
+			<input type="text" name="address" placeholder="Enter Address"  maxlength="35" required>
+		
+			<input type="text" name="uid" placeholder="Enter Vendor ID" minlength="1" maxlength="20" required>
+			<input type="password" name="pass1" placeholder="Enter Password" minlength="1" maxlength="20" required>
+			<input type="password" name="pass2" placeholder="Retype Password" minlength="1" maxlength="20" required>
+			<input type="submit" value="Submit" >
+				
+				
+			</div>
+		</div>
+	</form>
+</body>
+</html>

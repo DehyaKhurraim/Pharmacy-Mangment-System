@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Register</title>
+<link rel="stylesheet" href="css/Register.css">
+</head>
+<body>
+	<form action="Register.jsp" method="post">
+	<div class="container">
+		<div class="registerbox">
+			<h2>Customer Register</h2>
+			<input type="text" name="fname" placeholder="Enter First Name" minlength="3" maxlength="20"  required pattern="[A-z ]+$" title="Use only character & whitespace" autocomplete="off" required>
+		
+			<input type="text" name="lname" placeholder="Enter Last Name"     minlength="3" maxlength="20"  required pattern="[A-z ]+$" title="Use only character & whitespace" autocomplete="off" >
+			<input type="email" name="email" placeholder="Enter Email ID" minlength="7" maxlength="25"  required style=" padding-top:10px ; padding-bottom:10px; border:none; background-color: rgba(255, 250, 250, 0.85);; font-size: medium;">
+			<hr style="margin-top:-5px;">
+			<input type="text"  name="phno" placeholder="Enter Phone Number" minlength="11" maxlength="14" required>
+			<input type="text" name="address" placeholder="Enter Address"  maxlength="35" required>
+			<input type="text" name="uid" placeholder="Enter Customer ID" minlength="1" maxlength="20" required>
+			<input type="password" name="pass1" placeholder="Enter Password" minlength="1" maxlength="20" required>
+			<input type="password" name="pass2" placeholder="Retype Password" minlength="1" maxlength="20" required>
+			<h3>Passwords Do Not Match</h3>
+			<input type="submit" value="Submit" >
+		</div>
+		</div>
+	</form>
+</body>
+</html>
