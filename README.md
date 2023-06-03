@@ -5,9 +5,10 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-[![MySQL](https://img.shields.io/badge/mysql-5.7%2B-blue.svg)](https://www.mysql.com)
+[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
+[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 
 Pharmacy Management System is a web-based application built using JSP (JavaServer Pages) and Java that allows pharmacies to efficiently manage their daily operations. The system provides a user-friendly interface for managing various aspects of a pharmacy, including inventory management, sales tracking, and prescription management.
 
@@ -71,5 +72,7 @@ Pharmacy Management System is a web-based application built using JSP (JavaServe
 Contributions to the Pharmacy Management System are welcome! If you find any issues or would like to suggest improvements, please create a new issue or submit a pull request.
 
 ## License
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/DehyaKhurraim/Pharmacy-Mangment-System/blob/master/LICENSE)
+[![Latest release](https://badgen.net/github/release/Naereen/Strapdown.js)](https://github.com/DehyaKhurraim/Pharmacy-Mangment-System/releases)
 
 This project is licensed under the [MIT License](LICENSE).
